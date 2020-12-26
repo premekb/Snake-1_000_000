@@ -1,2 +1,2 @@
 # Snake-1_000_000
-Simple game in javascript inspired by the original snake. It is built using vanilla javascript and canvas.
+![img from the game](http://premekbelka.com/snake_1_000_000/snake-github.png)
